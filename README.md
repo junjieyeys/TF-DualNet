@@ -1,2 +1,2 @@
-## TFDPNet
-#### TFDPNet: A Time-Frequency Dual-Path Ensemble Network for Enhanced Time Series Forecasting
+## TF-DualNet
+#### TF-DualNet: Time-Frequency Dual-Path Network with Dynamic Variable Clustering and Adaptive Frequency Learning for Time Series Forecasting
